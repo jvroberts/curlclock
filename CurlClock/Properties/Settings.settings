@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CurlClock.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="UpperClockColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Blue</Value>
+    </Setting>
+    <Setting Name="UpperClockName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Blue</Value>
+    </Setting>
+    <Setting Name="UpperClockStartKey" Type="System.Windows.Forms.Keys" Scope="User">
+      <Value Profile="(Default)">B</Value>
+    </Setting>
+    <Setting Name="UpperClockStartKeyChar" Type="System.String" Scope="User">
+      <Value Profile="(Default)">B</Value>
+    </Setting>
+    <Setting Name="LowerClockColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Red</Value>
+    </Setting>
+    <Setting Name="LowerClockName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Red</Value>
+    </Setting>
+    <Setting Name="LowerClockStartKey" Type="System.Windows.Forms.Keys" Scope="User">
+      <Value Profile="(Default)">R</Value>
+    </Setting>
+    <Setting Name="LowerClockStartKeyChar" Type="System.String" Scope="User">
+      <Value Profile="(Default)">R</Value>
+    </Setting>
+    <Setting Name="UpperClockTextColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="LowerClockTextColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="GameType" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
